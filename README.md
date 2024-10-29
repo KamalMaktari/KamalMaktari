@@ -1,12 +1,12 @@
 # Hello, World! I'm Kamal 👋 
 
-My career is driven by a passion for DevOps and Cyber Security, particularly within cloud-based environments, where I aim to leverage my expertise to create innovative and high-impact solutions. I excel in dynamic, fast-paced settings that demand continuous learning and adaptability.
+My career is driven by a passion for DevOps and Cyber Security, particularly within cloud-based environments, where I aim to leverage my expertise to create innovative and high-impact solutions. I excel in dynamic, fast-paced settings that demand continuous learning and adaptability. 
 
-My experience spans automation, cloud infrastructure management, and secure software development, enabling me to effectively address the challenges posed by evolving technologies. I am particularly enthusiastic about integrating security practises and automation throughout the development life cycle, ensuring that systems are not only efficient but also resilient against potential threats.
+I have experience in automation, cloud infrastructure management, and secure software development, allowing me to effectively tackle technological challenges. By integrating security practises and automation throughout the development life cycle, I ensure efficient and resilient systems. My expertise in secure coding, infrastructure as code (IaC), and automated deployment pipelines enables me to enhance performance while collaborating with clients to refine requirements and deliver tailored solutions. 
 
-I have hands-on experience with secure coding practises, infrastructure as code (IaC), and automated deployment pipelines, utilising data-driven insights to enhance system performance. Collaboration with clients to refine technical requirements and deliver tailored solutions is integral to my approach, ensuring that projects align with client expectations while maintaining technical integrity.
+As a First Class Computer Science Graduate, my education encompassed software engineering, cyber security, artificial intelligence, database management, and cloud computing. This diverse foundation has equipped me with the skills to solve complex problems efficiently and to design scalable, secure systems. 
 
-As a First Class Computer Science Graduate, my education encompassed software engineering, cyber security, artificial intelligence, database management, and cloud computing. This diverse foundation has equipped me with the skills to solve complex problems efficiently and to design scalable, secure systems. I am committed to making meaningful contributions, whether through designing robust cloud infrastructure, developing secure and scalable applications, or optimising system performance. My focus on continuous improvement and embracing the latest technologies motivates me to push the boundaries of what’s possible in the rapidly changing tech landscape.
+I am committed to making meaningful contributions, whether through designing robust cloud infrastructure, developing secure and scalable applications, or optimising system performance. My focus on continuous improvement and embracing the latest technologies motivates me to push the boundaries of what’s possible in the rapidly changing tech landscape. 
 
 - 👀 Interested in DevOps & Cyber Security. 
 - 🌱 Currently mastering AWS & Azure. 
