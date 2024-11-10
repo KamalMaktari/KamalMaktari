@@ -1,6 +1,6 @@
 # Hello, World! I'm Kamal 👋 
 
-My career is driven by a passion for DevOps and Cyber Security, particularly within cloud-based environments, where I aim to leverage my expertise to create innovative and high-impact solutions. I excel in dynamic, fast-paced settings that demand continuous learning and adaptability. 
+My career is driven by a passion for Cyber Security and DevOps, particularly within cloud-based environments, where I aim to leverage my expertise to create innovative and high-impact solutions. I excel in dynamic, fast-paced settings that demand continuous learning and adaptability. 
 
 I have experience in automation, cloud infrastructure management, and secure software development, allowing me to effectively tackle technological challenges. By integrating security practices and automation throughout the development life cycle, I ensure efficient and resilient systems. My expertise in secure coding, infrastructure as code (IaC), and automated deployment pipelines enables me to enhance performance while collaborating with clients to refine requirements and deliver tailored solutions. 
 
