@@ -8,7 +8,7 @@ As a First Class Computer Science Graduate, my education encompassed software en
 
 I am committed to making meaningful contributions, whether through designing robust cloud infrastructure, developing secure applications, or enhancing system security. My focus on continuous improvement and embracing the latest technologies motivates me to push the boundaries of what’s possible in the rapidly evolving tech landscape. 
 
-- 👀 Interested in DevOps & Cyber Security. 
+- 👀 Interested in Cyber Security & Cloud. 
 - 🌱 Currently mastering AWS & Azure. 
 - 📌 Looking to collaborate on AWS & Azure projects. 
 - 💼 Interested in working together? Reach out to me via <a href="https://www.linkedin.com/in/kamalmaktari/">LinkedIn</a> or <a href="mailto:kamalmaktari@gmail.com">Email</a>.
