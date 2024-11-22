@@ -11,7 +11,7 @@ I am committed to making meaningful contributions, whether through designing rob
 - 👀 Interested in Cyber Security & Cloud. 
 - 🌱 Currently mastering AWS & Azure. 
 - 📌 Looking to collaborate on AWS & Azure projects. 
-- 💼 Interested in working together? Reach out to me via <a href="https://www.linkedin.com/in/kamalmaktari/">LinkedIn</a> or <a href="mailto:kamalmaktari@gmail.com">Email</a>.
+- 💼 Interested in working together? Reach out to me via <a href="https://www.linkedin.com/in/kamalmaktari">LinkedIn</a> or <a href="mailto:kamalmaktari@gmail.com">Email</a>.
 - 💬 Got a question or just curious about something? Feel free to ask!
 
 ## 📈 My GitHub Stats
