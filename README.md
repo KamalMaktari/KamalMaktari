@@ -19,7 +19,6 @@ I am committed to making meaningful contributions, whether through designing rob
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KamalMaktari&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kamal's Stats" height="165" width="500">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamalMaktari&theme=tokyonight&hide_border=true" alt="Kamal's Graph" height="165" width="500">
   </p>
 </div>
 
