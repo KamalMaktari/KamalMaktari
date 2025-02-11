@@ -4,7 +4,7 @@ My career is driven by a passion for Cyber Security, particularly within cloud-b
 
 I have experience in automation, cloud infrastructure management, and secure software development, allowing me to effectively tackle technological challenges. By integrating security practices throughout the development life cycle, I ensure efficient and resilient systems. My expertise in secure coding, infrastructure as code (IaC), and automated security testing enables me to enhance system performance while collaborating with clients to refine requirements and deliver tailored, secure solutions. 
 
-As a First Class Computer Science Graduate, my education encompassed software engineering, cyber security, artificial intelligence, database management, and cloud computing. This diverse foundation has equipped me with the skills to solve complex problems efficiently and design scalable, secure systems. 
+As a First Class Computer Science Graduate from Queen Mary University of London, my education encompassed software engineering, cyber security, artificial intelligence, database management, and cloud computing. This diverse foundation has equipped me with the skills to solve complex problems efficiently and design scalable, secure systems. 
 
 I am committed to making meaningful contributions, whether through designing robust cloud infrastructure, developing secure applications, or enhancing system security. My focus on continuous improvement and embracing the latest technologies motivates me to push the boundaries of what’s possible in the rapidly evolving tech landscape. 
 
