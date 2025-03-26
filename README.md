@@ -8,9 +8,9 @@ By streamlining CI/CD workflows with Jenkins, I have improved deployment speed a
 
 A strong foundation in software engineering and cloud security allows me to bridge the gap between development and operations, ensuring seamless collaboration across teams. My focus on continuous learning and emerging technologies enables me to adapt to evolving challenges, driving innovation in cloud infrastructure, automation, and security. Through a combination of scalable architecture design, automation-driven workflows, and proactive security enforcement, I am committed to building high-performing, resilient, and secure cloud environments. 
 
-- 👀 Interested in Cyber Security & Cloud. 
-- 🌱 Currently mastering AWS & Azure. 
-- 📌 Looking to collaborate on AWS & Azure projects. 
+- 👀 Interested in Cloud & Cyber Security. 
+- 🌱 Currently mastering Kubernetes. 
+- 📌 Looking to collaborate on AWS, Azure, & GCP projects. 
 - 💼 Interested in working together? Reach out to me via <a href="https://www.linkedin.com/in/kamalmaktari">LinkedIn</a> or <a href="mailto:kamalmaktari@gmail.com">Email</a>.
 - 💬 Got a question or just curious about something? Feel free to ask!
 
