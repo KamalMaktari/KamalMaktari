@@ -1,12 +1,12 @@
 # Hello, World! I'm Kamal 👋 
 
-My career is driven by a passion for Cyber Security, particularly within cloud-based environments, where I aim to leverage my expertise to create innovative and high-impact solutions. I excel in dynamic, fast-paced settings that demand continuous learning and adaptability. 
+My career is results-proven, built on a passion for designing, automating, and securing cloud infrastructure to ensure reliability, scalability, and efficiency across modern cloud environments. I specialise in optimising cloud platforms, integrating automation, and enforcing security best practices to create resilient systems that drive business growth and technological innovation. 
 
-I have experience in automation, cloud infrastructure management, and secure software development, allowing me to effectively tackle technological challenges. By integrating security practices throughout the development life cycle, I ensure efficient and resilient systems. My expertise in secure coding, infrastructure as code (IaC), and automated security testing enables me to enhance system performance while collaborating with clients to refine requirements and deliver tailored, secure solutions. 
+With experience across AWS, Azure, GCP, and Microsoft 365, I have designed and managed cloud environments that enhance performance and operational efficiency. I leverage Terraform and Ansible to automate infrastructure provisioning, ensuring consistency and reliability across deployments. My expertise in Docker and Kubernetes enables efficient container orchestration, allowing applications to scale seamlessly while maintaining high availability. 
 
-As a First Class Computer Science Graduate from Queen Mary University of London, my education encompassed software engineering, cyber security, artificial intelligence, database management, and cloud computing. This diverse foundation has equipped me with the skills to solve complex problems efficiently and design scalable, secure systems. 
+By streamlining CI/CD workflows with Jenkins, I have improved deployment speed and system reliability, reducing manual overhead and increasing development agility. Security remains at the core of my approach, as I implement robust access controls, compliance monitoring, and proactive risk mitigation strategies to safeguard cloud-based applications and services. 
 
-I am committed to making meaningful contributions, whether through designing robust cloud infrastructure, developing secure applications, or enhancing system security. My focus on continuous improvement and embracing the latest technologies motivates me to push the boundaries of what’s possible in the rapidly evolving tech landscape. 
+A strong foundation in software engineering and cloud security allows me to bridge the gap between development and operations, ensuring seamless collaboration across teams. My focus on continuous learning and emerging technologies enables me to adapt to evolving challenges, driving innovation in cloud infrastructure, automation, and security. Through a combination of scalable architecture design, automation-driven workflows, and proactive security enforcement, I am committed to building high-performing, resilient, and secure cloud environments. 
 
 - 👀 Interested in Cyber Security & Cloud. 
 - 🌱 Currently mastering AWS & Azure. 
