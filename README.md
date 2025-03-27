@@ -1,6 +1,6 @@
 # Hello, World! I'm Kamal 👋 
 
-My career is results-proven, built on a passion for designing, automating, and securing cloud infrastructure to ensure reliability, scalability, and efficiency across modern cloud environments. I specialise in optimising cloud platforms, integrating automation, and enforcing security best practices to create resilient systems that drive business growth and technological innovation. 
+My career is results-proven, built on designing, automating, and securing cloud infrastructure to ensure reliability, scalability, and efficiency across modern cloud environments. I specialise in optimising cloud platforms, integrating automation, and enforcing security best practices to create resilient systems that drive business growth and technological innovation. 
 
 With experience across AWS, Azure, GCP, and Microsoft 365, I have designed and managed cloud environments that enhance performance and operational efficiency. I leverage Terraform and Ansible to automate infrastructure provisioning, ensuring consistency and reliability across deployments. My expertise in Docker and Kubernetes enables efficient container orchestration, allowing applications to scale seamlessly while maintaining high availability. 
 
